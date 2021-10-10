@@ -9,7 +9,7 @@
 2. __'Homework 2.ipynb'__:
       > The file is a jupyter notebook that contains the remain 6/6 codes from Problem 2 of the Homework.
 
-3. __'Submission.pdf'__:
+3. __'stamps/Submission.pdf'__:
       > Is a pdf that contains the screenshots of the submissions page of Hackerrank. The order of the submissions is not ever the same as the blocks in the notebook HomeWork 1 and HomeWork 2.
 
 # Script format
